@@ -21,7 +21,7 @@ public class BotService
         _client.Log += LogAsync;
         _client.MessageReceived += HandleMessageAsync;
 
-        var token = "";
+        var token = "SUA KEY AQUI";
         await _client.LoginAsync(TokenType.Bot, token);
         await _client.StartAsync();
     }
@@ -55,7 +55,6 @@ public class BotService
             var user = db.Users.FirstOrDefault(u => u.Username == username);
             if (user != null)
             {
-                // Se já tem data futura, soma, senão usa a data atual + dias
                 user.DataExpiracao = user.DataExpiracao > DateTime.Now
                     ? user.DataExpiracao.AddDays(dias)
                     : DateTime.Now.AddDays(dias);

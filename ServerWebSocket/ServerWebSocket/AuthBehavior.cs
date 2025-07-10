@@ -39,7 +39,6 @@ public class AuthBehavior : WebSocketBehavior
                 return;
             }
 
-            // Verifica expiração antes do HWID
             if (user.DataExpiracao < DateTime.Now)
             {
                 SendError("Conta expirada. Renove sua assinatura.");

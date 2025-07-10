@@ -1,0 +1,54 @@
+﻿# Ignorar pastas de build
+**/bin/
+**/obj/
+**/publish/
+
+# Ignorar cache e config do Visual Studio
+**/.vs/
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+
+# Ignorar arquivos temporários do VS Copilot, DesignTimeBuild, etc
+**/CopilotIndices/
+**/DesignTimeBuild/
+**/FileContentIndex/
+**/ProjectEvaluation/
+**/v17/
+**/*.vsidx
+**/*.dtbcache.v2
+**/*.futdcache.v2
+**/*.db
+**/*.db-shm
+**/*.db-wal
+
+# Rider
+**/.idea/
+
+# VS Code
+**/.vscode/
+
+# Arquivos de log, cache e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+*.backup
+*.swp
+
+# Arquivos do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Outros
+*.nupkg
+*.snupkg
+mono_crash.*
+*.coverage
+*.coveragexml
+coverage/
+node_modules/
+packages/

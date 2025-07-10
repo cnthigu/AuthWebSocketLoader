@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Higor\\Desktop\\Projeto\\ServerWebSocket\\LoaderClient\\LoaderClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97F64B1-6E22-45FD-9F06-F6806C1FDBA5}|LoaderClient\\LoaderClient.csproj|c:\\users\\higor\\desktop\\projeto\\serverwebsocket\\loaderclient\\loaderclient\\loaderclient\\getmachinehwid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97F64B1-6E22-45FD-9F06-F6806C1FDBA5}|LoaderClient\\LoaderClient.csproj|solutionrelative:loaderclient\\getmachinehwid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97F64B1-6E22-45FD-9F06-F6806C1FDBA5}|LoaderClient\\LoaderClient.csproj|c:\\users\\higor\\desktop\\projeto\\serverwebsocket\\loaderclient\\loaderclient\\loaderclient\\loaderclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E97F64B1-6E22-45FD-9F06-F6806C1FDBA5}|LoaderClient\\LoaderClient.csproj|solutionrelative:loaderclient\\loaderclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaderClient",
+              "DocumentMoniker": "C:\\Users\\Higor\\Desktop\\Projeto\\ServerWebSocket\\LoaderClient\\LoaderClient\\LoaderClient\\LoaderClient.csproj",
+              "RelativeDocumentMoniker": "LoaderClient\\LoaderClient.csproj",
+              "ToolTip": "C:\\Users\\Higor\\Desktop\\Projeto\\ServerWebSocket\\LoaderClient\\LoaderClient\\LoaderClient\\LoaderClient.csproj",
+              "RelativeToolTip": "LoaderClient\\LoaderClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T07:16:09.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetMachineHWID.cs",
+              "DocumentMoniker": "C:\\Users\\Higor\\Desktop\\Projeto\\ServerWebSocket\\LoaderClient\\LoaderClient\\LoaderClient\\GetMachineHWID.cs",
+              "RelativeDocumentMoniker": "LoaderClient\\GetMachineHWID.cs",
+              "ToolTip": "C:\\Users\\Higor\\Desktop\\Projeto\\ServerWebSocket\\LoaderClient\\LoaderClient\\LoaderClient\\GetMachineHWID.cs",
+              "RelativeToolTip": "LoaderClient\\GetMachineHWID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:14:50.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

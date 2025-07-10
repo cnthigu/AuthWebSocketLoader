@@ -4,12 +4,6 @@ Projeto completo de autenticação via WebSocket, com integração a banco de da
 
 ---
 
-## Demonstração em vídeo
-
-
-> Clique na imagem acima para assistir ao vídeo de demonstração (1:20).
-Ou acesse diretamente: [https://streamable.com/7h9cbs](https://streamable.com/7h9cbs)
-
 
 ## Descrição
 
